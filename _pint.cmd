@@ -1,2 +1,4 @@
 @echo off
-./vendor/bin/pint.bat -v
+cls
+echo.
+./vendor/bin/pint -v
